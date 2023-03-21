@@ -8,7 +8,7 @@ export const Container = styled.section`
   margin-right: auto;
   padding: 50px;
   margin-top: 100px;
-  width: 500px;
+  max-width: 500px;
   gap: 30px;
   border-radius: 20px;
   background-color: #2c2c2c;
